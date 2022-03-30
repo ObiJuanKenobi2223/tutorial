@@ -1,0 +1,13 @@
+{
+  "appId": "org.codeforiraq.emplyees",
+  "appName": "emplyees",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
